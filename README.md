@@ -14,31 +14,9 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong b
 ---
 
 ## 💼 Work Experience
-### **Software Engineer** @ Storefox AI (Aug 2024 - Present)
-- Designed and implemented a backend service for push notifications using Firebase Cloud Messaging.
-- Developed an audit feature that increased tenant engagement by 15%.
-- Built backend services to track key metrics for reps' performance using Posthog.
-
-### **Blockchain Research & Developer Intern** @ Samaritan AI (Jan 2024 - May 2024)
-- Analyzed 1M+ swap transactions on Uniswap using Google BigQuery.
-- Developed algorithms for calculating profit and loss of swap transactions, improving efficiency by 15%.
-- Optimized query performance using The Graph Protocol for faster data retrieval.
-
-### **Full Stack MERN Developer** @ Excellence Technologies (May 2023 - July 2023)
-- Implemented Node.js streaming pipelines for processing large datasets efficiently.
-- Developed, tested, and deployed scalable APIs for backend systems.
-
----
-
-## 🚀 Projects
-### [NAV-IC (ISRO Funded Project)](https://github.com/akshatMaurya5/Nav-IC)
-- Built a real-time asset tracking system integrating ISRO's location tracking devices.
-- Integrated Bhuvan Maps with Leaflet for precise plotting of latitudes and longitudes.
-- Deployed a control server to manage up to 20,000+ devices.
-
-### [Job Tracker](https://github.com/akshatMaurya5/jobTrackerApp)
-- Developed an app to streamline job applications with efficient tracking and visualization.
-- Enhanced user experience with bar charts and table components.
+- **Software Engineer** @ Storefox AI (Aug 2024 - Present)
+- **Blockchain Research & Developer Intern** @ Samaritan AI (Jan 2024 - May 2024)
+- **Full Stack MERN Developer** @ Excellence Technologies (May 2023 - July 2023)
 
 ---
 
